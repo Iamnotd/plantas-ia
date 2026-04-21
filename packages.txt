@@ -1,2 +1,1 @@
-chromadb
-ollama
+chromadb==0.4.18
