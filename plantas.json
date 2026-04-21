@@ -1,0 +1,12 @@
+[
+  {"nombre": "Manzanilla", "uso": "Estómago, ansiedad, insomnio", "precaucion": "Alergia ambrosía, embarazo", "dosis": "1-3 tazas/día", "preparacion": "Infusión 1 cdta/taza 10min"},
+  {"nombre": "Jengibre", "uso": "Náuseas, digestión, resfriados", "precaucion": "Anticoagulantes, úlceras", "dosis": "1-4g fresco/día", "preparacion": "Rallado en té o masticar"},
+  {"nombre": "Aloe Vera", "uso": "Quemaduras, estreñimiento", "precaucion": "NO aloe amargo, diarrea", "dosis": "30ml jugo/día", "preparacion": "Gel fresco o jugo"},
+  {"nombre": "Eucalipto", "uso": "Resfriados, congestión", "precaucion": "Tóxico ingerido, niños<6", "dosis": "Inhalación", "preparacion": "5 gotas aceite en vapor"},
+  {"nombre": "Menta", "uso": "Digestión, dolor cabeza", "precaucion": "Reflujo severo", "dosis": "1-2 tazas", "preparacion": "Infusión hojas frescas"},
+  {"nombre": "Lavanda", "uso": "Ansiedad, insomnio", "precaucion": "Embarazo, niños", "dosis": "1 taza o aceite", "preparacion": "Infusión o aromaterapia"},
+  {"nombre": "Cúrcuma", "uso": "Inflamación, artritis", "precaucion": "Anticoagulantes, vesícula", "dosis": "1-3g/día", "preparacion": "Leche dorada con pimienta"},
+  {"nombre": "Orégano", "uso": "Infecciones, inmunidad", "precaucion": "Embarazo, alergias", "dosis": "1-2 gotas aceite", "preparacion": "Té o aceite diluido"},
+  {"nombre": "Diente León", "uso": "Hígado, diurético", "precaucion": "Cálculos biliares", "dosis": "1-2 tazas", "preparacion": "Raíz tostada infusión"},
+  {"nombre": "Valeriana", "uso": "Insomnio, ansiedad", "precaucion": "Depresión, embarazo", "dosis": "300-600mg", "preparacion": "Té raíz 10min"}
+]
